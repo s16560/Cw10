@@ -1,0 +1,655 @@
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+"IndexNumber": "s6789",
+"FirstName": "Kazimierz",
+"LastName": "Fabianski",
+"BirthDate": "1999-11-10",
+"Studies": "informatyka"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: 
+
+Path: /api/students
+Query: 
+Method: POST
+Body: 
+
+Path: /api/students
+Query: 
+Method: POST
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: GET
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: POST
+Body: {
+	"login": "aaa",
+	"password": "asd"
+}
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /favicon.ico
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students/1234
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students/s1234
+Query: 
+Method: GET
+Body: 
+
+Path: /api/students/s2345
+Query: 
+Method: GET
+Body: 
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: {
+"IndexNumber": "s7890",
+"FirstName": "Jan",
+"LastName": "Stefanski",
+"BirthDate": "2000-03-11"
+"Studies": "informatykas"
+}
+
+
+Path: /api/enrollments
+Query: 
+Method: POST
+Body: {
+"IndexNumber": "s7890",
+"FirstName": "Jan",
+"LastName": "Stefanski",
+"BirthDate": "2000-03-11",
+"Studies": "informatykas"
+}
+
+
